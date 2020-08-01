@@ -25,7 +25,7 @@ One conclusion I can draw from the outcomes based on launch dates graph is that 
 Based on the Outcomes based on Goals graph, one can conclude that goals that are less than 4999 will more likely be successful than goals greater than 4999.
 
 - What are some limitations of this dataset?
---- One of the limitations of this dataset is that it doesn’t provide the median, mean, and mode goal amount of successful or failed plays. I think this information would be really helpful to Louise to kickstart her play. Also, instead of having just a specific country it has data of every country. By filtering out the target country she wants to start her play in would be helpful to showing the success and failures of plays. 
+One of the limitations of this dataset is that it doesn’t provide the median, mean, and mode goal amount of successful or failed plays. I think this information would be really helpful to Louise to kickstart her play. Also, instead of having just a specific country it has data of every country. By filtering out the target country she wants to start her play in would be helpful to showing the success and failures of plays. 
 
 
 - What are some other possible tables and/or graphs that we could create?
