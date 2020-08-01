@@ -24,7 +24,7 @@ One conclusion I can draw from the outcomes based on launch dates graph is that 
 - What can you conclude about the Outcomes based on Goals?
 ###Based on the Outcomes based on Goals graph, one can conclude that goals that are less than 4999 will more likely be successful than goals greater than 4999.
 
--What are some limitations of this dataset?
+- What are some limitations of this dataset?
 
 
 - What are some other possible tables and/or graphs that we could create?
