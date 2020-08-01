@@ -22,7 +22,7 @@ One challenge that was encountered in creating this file was that I was unable t
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 One conclusion I can draw from the outcomes based on launch dates graph is that the month with the highest successful launches is May. The second conclusion is that May also has the highest fail rate as well.
 - What can you conclude about the Outcomes based on Goals?
--- Based on the Outcomes based on Goals graph, one can conclude that goals that are less than 4999 will more likely be successful than goals greater than 4999.
+Based on the Outcomes based on Goals graph, one can conclude that goals that are less than 4999 will more likely be successful than goals greater than 4999.
 
 - What are some limitations of this dataset?
 
