@@ -20,11 +20,11 @@ One challenge that was encountered in creating this file was that I was unable t
 
 ## Results
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
--One conclusion I can draw from the outcomes based on launch dates graph is that the month with the highest successful launches is May. The second conclusion is that May also has the highest fail rate as well.
+One conclusion I can draw from the outcomes based on launch dates graph is that the month with the highest successful launches is May. The second conclusion is that May also has the highest fail rate as well.
 - What can you conclude about the Outcomes based on Goals?
--Based on the Outcomes based on Goals graph, one can conclude that goals that are less than 4999 will more likely be successful than goals greater than 4999.
-- What are some limitations of this dataset?
+Based on the Outcomes based on Goals graph, one can conclude that goals that are less than 4999 will more likely be successful than goals greater than 4999.
+-What are some limitations of this dataset?
 
 
 - What are some other possible tables and/or graphs that we could create?
--One other table or graph that could be use a box and whiskers plot. This can be used to compare the distribution of play campaign goal’s success and failures. By creating this graph we can also find the mean, median upper/lower quartile and outliers of the successful and failed plays. Another type graph that could be use is a bar graph that depicts the plays success, failed and canceled outcome by countries. This graph would be useful to Louis because it would help make the data more specific to the country that she is trying to kickstart the play in.
+One other table or graph that could be use a box and whiskers plot. This can be used to compare the distribution of play campaign goal’s success and failures. By creating this graph we can also find the mean, median upper/lower quartile and outliers of the successful and failed plays. Another type graph that could be use is a bar graph that depicts the plays success, failed and canceled outcome by countries. This graph would be useful to Louis because it would help make the data more specific to the country that she is trying to kickstart the play in.
