@@ -7,7 +7,6 @@ The purpose of this project is to provide Louise with information for her start 
 
 ### Analysis of Outcomes Based on Launch Date
 Based on the graph generated from the data, from January to May there is a similar increasing trend for both successful and failed theater outcomes. Then from May to September there is also a similar decreasing trend for both successful and failed theater outcomes. From September to November there is a similar trend were both are increasing from September to October then decreasing from October to November. In December the number of successful and failed theaters are almost identical. 
-![image_name](path/to/Resources/Theater_Outcomes_vs_Launch.png)
 From this data one can conclude that the ideal month to start a theater is May. The reason why May is the best month for a theater to launch is because it has the most successful launches compared to the other months.
 
 ### Analysis of Outcomes Based on Goals
