@@ -9,10 +9,15 @@ The purpose of this project is to provide Louise with information for her start 
 Based on the graph generated from the data, from January to May there is a similar increasing trend for both successful and failed theater outcomes. Then from May to September there is also a similar decreasing trend for both successful and failed theater outcomes. From September to November there is a similar trend were both are increasing from September to October then decreasing from October to November. In December the number of successful and failed theaters are almost identical. 
 From this data one can conclude that the ideal month to start a theater is May. The reason why May is the best month for a theater to launch is because it has the most successful launches compared to the other months.
 
+![Launch Date](https://github.com/ducluu27/Kickstarter-Analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 The results from the outcomes based on goals show that there is an inverse relationship between the percent of successful and failed projects. The highest range with the highest success and lowest percent is at less than 1000. While the range with the highest fail and lowest success is at 45000 to 49999. Also, there are 3 times when the success and fail percentages intersect each other. The first time is at 15000 to 1999, then at 30000 to 34999, and lastly at 40000 to 44999. 
 
 From this chart there are 2 ideal ranges for a goal. The first one is at less than 1000 and the second one is at 1000 to 49999. The reason why these 2 ranges are ideal goals is because there is a 76% success and a 24% fail rate. 
+
+
+![Goals](https://github.com/ducluu27/Kickstarter-Analysis/blob/master/Resources/Outcomes_vs_goals.png)
 
 ### Challenges and Difficulties Encountered
 One challenge that was encountered in creating this file was that I was unable to label the spreadsheet the full name. There is a limit of words or letter to the spreadsheet name. So, I had to shorten it to theater outcomes. 
